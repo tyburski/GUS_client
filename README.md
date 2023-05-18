@@ -8,4 +8,4 @@ Zaimplementowane funkcjonalności: <br />
 -Kolory wierszy "nazwa-poziom" : Temat-zielone, Zakres informacyjny-czerwone, Dziedzina-żółte<br />
 
 
-![gus](https://github.com/tyburski/GUS_client/assets/129940051/6cad35d2-9400-4267-99dc-98339471f5ba)
+![gus](https://github.com/tyburski/GUS_client/assets/129940051/7fbec8ea-81a1-4872-a7bf-c00b2e3fdffe)
