@@ -1,5 +1,4 @@
-# Propozycja rozwiązania zadania nr.2
-Aplikacja WPF wyświetlająca listę obszarów tematycznych <br />
+# Aplikacja WPF wyświetlająca listę obszarów tematycznych <br />
 <br />
 Zaimplementowane funkcjonalności: <br />
 -Reordering kolumn poprzez przeciąganie<br />
